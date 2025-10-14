@@ -63,9 +63,3 @@ I love optimizing code.
 
 ---
 
-### 📫 Connect
-
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:you@example.com)
-
