@@ -37,7 +37,6 @@ I love optimizing code.
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-A41E11?logo=vulkan&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
 ---
