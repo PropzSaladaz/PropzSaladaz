@@ -6,7 +6,7 @@ I write **software**, compose **music** of all kinds, love **photography**, and 
 My work blends **creativity and engineering** — from high-performance cryptography systems to real-time rendering and artistic tools.
 I love putting my ideas into practice. Build stuff from the scratch for the sake of learning. There's also something beautiful about optimizing code.
 
-You can read about stuff I find interesting in ![my articles website](https://propzsaladaz.github.io/articles-website/)
+You can read about stuff I find interesting in [my articles website](https://propzsaladaz.github.io/articles-website/)
 
 ---
 
