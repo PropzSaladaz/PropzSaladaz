@@ -2,18 +2,20 @@
 
 🎧 Software Engineer • 🎵 Music Producer • 📷 Photographer • 🧠 3D & Systems Enthusiast
 
-I write **software**, compose **music** of all kinds, capture **photography**, and explore **3D programming & engine design**.  
+I write **software**, compose **music** of all kinds, love **photography**, and explore **3D programming & engine design**.  
 My work blends **creativity and engineering** — from high-performance cryptography systems to real-time rendering and artistic tools.
-I love optimizing code.
+I love putting my ideas into practice. Build stuff from the scratch for the sake of learning. There's also something beautiful about optimizing code.
+
+You can read about stuff I find interesting in ![my articles website](https://propzsaladaz.github.io/articles-website/)
 
 ---
 
 ### 🧠 About Me
 
-- 💻 I enjoy building scalable, efficient, and visually refined systems.  
-- 🎹 I compose instrumental and electronic music.  
-- 📸 I love experimenting with light, color, and composition through photography.  
-- 🎮 I’m fascinated by graphics pipelines, voxel worlds, and GPU programming.
+- 💻 I enjoy building stuff that either help me or help others. I love to build simulations
+- 🎹 I compose instrumental and electronic music (I use FLStudio btw)
+- 📸 I love experimenting with photography
+- 🎮 I’m fascinated by graphics pipelines, voxel worlds, and GPU programming
 
 ---
 
